@@ -1,4 +1,4 @@
 animating-SVGs
 ==============
 
-Making some animated SVG's
+Signing my name with an SVG animation
